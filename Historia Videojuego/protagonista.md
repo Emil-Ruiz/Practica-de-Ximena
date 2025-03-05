@@ -1,0 +1,1 @@
+Es el [[jugador]] el cual puede escoger al personaje 
